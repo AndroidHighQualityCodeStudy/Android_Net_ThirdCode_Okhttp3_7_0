@@ -1,0 +1,12 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:colorPrimaryDark">#673AB7</item>
+        <item name="colorPrimary">#00BCD4</item>
+        <item name="colorControlHighlight">#673AB7</item>
+        <item name="colorButtonNormal">#CDDC39</item>
+        <item name="android:windowContentTransitions">true</item>
+    </style>
+
+</resources>
